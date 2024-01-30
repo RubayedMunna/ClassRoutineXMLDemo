@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<semester>
+	<week number="1">
+		<day name="Sunday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>DS</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>English</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Monday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>English</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>DS</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Tuesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Wednesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Thursday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<!-- Repeat the structure for other days in Week 1 -->
+		<!-- Friday and Saturday are off days -->
+		<day name="Friday" off="true">
+            </day>
+		<day name="Saturday" off="true"/>
+	</week>
+	<!-- Week 2 -->
+	<week number="2">
+		<day name="Sunday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>DS</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>English</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Monday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>English</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>DS</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Tuesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Wednesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Thursday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<!-- Repeat the structure for other days in Week 1 -->
+		<!-- Friday and Saturday are off days -->
+		<day name="Friday" off="true">
+            </day>
+		<day name="Saturday" off="true"/>
+	</week>
+	<!-- Week 3 -->
+	<week number="3">
+		<day name="Sunday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>DS</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>English</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Monday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>SPL</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>English</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Database</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>DS</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Microprocessor</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Human Computer Interaction</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>English</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>History</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Tuesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Wednesday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<day name="Thursday">
+			<session sem="1-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Electrical Circuit</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>EDC</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>Discrete Math</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>DS</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Algorithm</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+			<session sem="2-1">
+				<before_lunch>
+					<timeslot time="9:00 AM - 10:00 AM">
+						<class>Computer Network</class>
+					</timeslot>
+					<timeslot time="10:25 AM - 11:25 AM">
+						<class>Algo</class>
+					</timeslot>
+					<timeslot time="11:30 AM - 12:30 PM">
+						<class>HCI</class>
+					</timeslot>
+				</before_lunch>
+				<after_lunch>
+					<timeslot time="1:30 PM - 2:30 PM">
+						<class>Math 1</class>
+					</timeslot>
+					<timeslot time="2:45 PM - 3:45 PM">
+						<class>Math2</class>
+					</timeslot>
+				</after_lunch>
+			</session>
+		</day>
+		<!-- Repeat the structure for other days in Week 1 -->
+		<!-- Friday and Saturday are off days -->
+		<day name="Friday" off="true">
+            </day>
+		<day name="Saturday" off="true"/>
+	</week>
+</semester>

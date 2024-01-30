@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.dropdowns {
+  margin-bottom: 20px;
+}
+
+.class-routine {
+  align-items: center; /* Aligns content vertically in the center */
+  justify-content: center;
+}
+
+.before-lunch,
+.after-lunch {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+}
+
+.before-lunch h2,
+.after-lunch h2 {
+  margin-bottom: 5px;
+}
